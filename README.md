@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khubayb Kapila</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khubaybk&label=Profile%20views&color=0e75b6&style=flat" alt="khubaybk" /> </p>
+
 - 🔭 I’m currently working on **A to-do list that texts/emails you your daily tasks**
 
 - 🌱 I’m currently learning **Springboot framework with React as a Front end**
